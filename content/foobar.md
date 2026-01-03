@@ -1,0 +1,1 @@
+Foobar baz qux. This is a sample markdown file located at content/foobar.md.
